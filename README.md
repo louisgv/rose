@@ -9,7 +9,7 @@
 </h1>
 
 <h2 align="center">
-    A rewrite of [roslibjs](https://github.com/RobotWebTools/roslibjs) that smells like roses.
+    A rewrite of <a href="https://github.com/RobotWebTools/roslibjs">roslibjs</a> that smells like roses.
 </h2>
 
 # Goal
