@@ -1,0 +1,14 @@
+{
+	"private": true,
+	"scripts": {
+		"clean": "rimraf packages/**/node_modules packages/**/lib",
+		"watch": "lerna run watch --parallel"
+	},
+	"devDependencies": {
+		"lerna": "^2.11.0",
+		"rimraf": "^2.6.2"
+	},
+	"workspaces": [
+		"packages/*"
+	]
+}
